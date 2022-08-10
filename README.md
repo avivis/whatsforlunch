@@ -1,6 +1,6 @@
 # whatsforlunch
 
-A full-stack web application to make food decision making easier! 🥗💭
+A Python and JavaScript-based full-stack web application to make food decision making easier! 🥗💭
 
 ## Description
 Do you and your friends have trouble finding a place to eat? let whatsforlunch do the work! whatsforlunch asks for 1 preference keyword and your zip code to query Yelp's Fusion API and find you a random restaurant in your area to make the choice easy and expose you to new local restaurants.
