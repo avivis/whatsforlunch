@@ -9,4 +9,5 @@ Do you and your friends have trouble finding a place to eat? let whatsforlunch d
 whatsforlunch was built with a Python backend using the Flask framework, HTML/CSS for frontend, and JavaScript with the JQuery library for both frontend and backend. The Yelp Fusion API was used to query restaurant data and the Google Location API was used to convert zip code information into latitude/longitude information.
 
 Python, Javascript, Flask, Yelp Fusion API, Google location API, HTML/CSS 
+
 API authorization keys removed from code for both APIs 
