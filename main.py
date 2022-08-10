@@ -22,7 +22,7 @@ def search():
 @app.route("/results")
 def search_results(businesses, location,  bus_names=[], search_value=""):
     return render_template("results.html", search_value=search_value, businesses=businesses, location=location,
-                           biz_locations=bus_names, google_api_key='AIzaSyBaFmWC5h6ehbNeZPbbhMm2G9S2hF2QgRU')
+                           biz_locations=bus_names, GOOGLE_API_KEY)
 
 
 if __name__ == '__main__':
