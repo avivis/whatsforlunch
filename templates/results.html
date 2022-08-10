@@ -6,7 +6,6 @@
         document.getElementById('zip_code').value = "{{ zip_code|safe }}";
     </script>
     <div class="results">
-        <h2>Restaurants near you:</h2>
         {% business = random.choice(businesses)%}
         <h3><b>{{ biz["name"] }}</b></h3>
     </div>
