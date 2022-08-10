@@ -9,4 +9,4 @@ Do you and your friends have trouble finding a place to eat? let whatsforlunch d
 whatsforlunch was built with a Python backend using the Flask framework, HTML/CSS for frontend, and JavaScript with the JQuery library for both frontend and backend. 
 
 Python, Javascript, Flask, Yelp Fusion API, Google location API, HTML/CSS
-* API authorization keys removed for both APIs 
+* API authorization keys removed from code for both APIs 
