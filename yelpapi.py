@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = ''
+API_KEY = #REMOVEDAPIKEY
 ENDPOINT = 'https://api.yelp.com/v3/businesses/search'
 HEADERS = {'Authorization': 'bearer %s' % API_KEY}
 
