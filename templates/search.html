@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+
+{% block search_bar %}
+    <div class="search-bar">   {# Search bar #}
+        <form action="Javascript:search()">
+            <label><h2>what are your preferences?</h2></label>
+            <input type="text" id="search_value">
+        </form>
+        <form action="Javascript:search()">
+            <label><h2>what's your zip code?</h2></label>
+            <input type="text" id="zip_code">
+        </form>
+        <button class="shutter-out" type="submit">search</button>
+    </div>
+{% endblock %}
