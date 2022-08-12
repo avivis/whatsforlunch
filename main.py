@@ -26,4 +26,4 @@ def search_results(businesses, location,  bus_names=[], search_value=""):
 
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run(debug = False)
